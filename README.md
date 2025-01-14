@@ -23,8 +23,8 @@ This is a simple Tic-Tac-Toe game developed in **C** using **SDL2** for renderin
 ### Building the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/WackyGlow/Tic-Tac-Toe.git
+   cd Tic-Tac-Toe
    ```
 2. Open the project in your preferred IDE (e.g., Visual Studio).
 3. Link the following SDL2 libraries:
