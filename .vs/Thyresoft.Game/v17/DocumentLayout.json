@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\",
+  "WorkspaceRootPath": "C:\\Hobby Coding\\Thyresoft.Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\grid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\grid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\board.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\board.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\game_logic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\game_logic.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\tictactoe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\tictactoe.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\game_logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\game_logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D82917BE-895C-433A-BDD5-FC86B212B393}|TicTacToe\\TicTacToe.vcxproj|solutionrelative:TicTacToe\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "player.c",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\player.c",
-              "RelativeDocumentMoniker": "TicTacToe\\player.c",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\player.c",
-              "RelativeToolTip": "TicTacToe\\player.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "game_logic.c",
+              "DocumentMoniker": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\game_logic.c",
+              "RelativeDocumentMoniker": "TicTacToe\\game_logic.c",
+              "ToolTip": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\game_logic.c",
+              "RelativeToolTip": "TicTacToe\\game_logic.c",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-04T01:30:01.697Z",
+              "WhenOpened": "2025-01-14T19:31:45.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "board.h",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\board.h",
-              "RelativeDocumentMoniker": "TicTacToe\\board.h",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\board.h",
-              "RelativeToolTip": "TicTacToe\\board.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T01:29:49.609Z",
+              "DocumentIndex": 0,
+              "Title": "grid.c",
+              "DocumentMoniker": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\grid.c",
+              "RelativeDocumentMoniker": "TicTacToe\\grid.c",
+              "ToolTip": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\grid.c",
+              "RelativeToolTip": "TicTacToe\\grid.c",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-14T19:31:30.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "player.h",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\player.h",
-              "RelativeDocumentMoniker": "TicTacToe\\player.h",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\player.h",
-              "RelativeToolTip": "TicTacToe\\player.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Title": "game_logic.h",
+              "DocumentMoniker": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\game_logic.h",
+              "RelativeDocumentMoniker": "TicTacToe\\game_logic.h",
+              "ToolTip": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\game_logic.h",
+              "RelativeToolTip": "TicTacToe\\game_logic.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-04T01:28:43.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "board.c",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\board.c",
-              "RelativeDocumentMoniker": "TicTacToe\\board.c",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\board.c",
-              "RelativeToolTip": "TicTacToe\\board.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-04T01:27:18.073Z",
+              "WhenOpened": "2025-01-14T19:31:15.187Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "tictactoe.c",
-              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\tictactoe.c",
-              "RelativeDocumentMoniker": "TicTacToe\\tictactoe.c",
-              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Thyresoft.Game\\TicTacToe\\tictactoe.c",
-              "RelativeToolTip": "TicTacToe\\tictactoe.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAABAAAA",
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\main.c",
+              "RelativeDocumentMoniker": "TicTacToe\\main.c",
+              "ToolTip": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\main.c",
+              "RelativeToolTip": "TicTacToe\\main.c",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-01-04T01:25:27.412Z",
+              "WhenOpened": "2025-01-14T19:30:26.619Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "grid.h",
+              "DocumentMoniker": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\grid.h",
+              "RelativeDocumentMoniker": "TicTacToe\\grid.h",
+              "ToolTip": "C:\\Hobby Coding\\Thyresoft.Game\\TicTacToe\\grid.h",
+              "RelativeToolTip": "TicTacToe\\grid.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T19:29:34.97Z",
+              "EditorCaption": ""
             }
           ]
         }

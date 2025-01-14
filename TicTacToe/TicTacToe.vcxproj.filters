@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="tictactoe.c">
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="board.c">
+    <ClCompile Include="grid.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="player.c">
+    <ClCompile Include="game_logic.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="player.h">
+    <ClInclude Include="grid.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="board.h">
+    <ClInclude Include="game_logic.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -19,4 +19,7 @@ void playerMove(char board[SIZE][SIZE], char player) {
 			printf("Invalid move. Try again.\n");
 		}
 	}
+	printf("Press Enter to exit...\n");
+	getchar(); // Wait for user input
+	getchar(); // Handles the leftover newline from previous input
 }
